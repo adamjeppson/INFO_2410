@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="dw_new_image_map" value="&lt;MAP name=&quot;linkMap&quot;&gt;&#xD;      &lt;AREA SHAPE=&quot;rect&quot; COORDS=&quot;150,46,221,115&quot; HREF=&quot;rectangle.html&quot; ALT=&quot;link to rectangle.html&quot;&gt;&#xD;      &lt;AREA SHAPE=&quot;poly&quot; COORDS=&quot;172,159,186,188,217,205,189,219,175,249,158,221,129,203,163,190&quot; HREF=&quot;polygon.html&quot; ALT=&quot;link to Polygon.html&quot;&gt;&#xD;    &lt;/MAP&gt;" />
+</info>
